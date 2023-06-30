@@ -1,0 +1,10 @@
+.ccls-cache
+
+*.o
+
+config.h
+
+dmenu
+dmenu_run
+dmenu_path
+stest
